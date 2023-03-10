@@ -109,3 +109,8 @@ code --install-extension TTOOWA.in-your-face-incredible
 code --install-extension xabikos.JavaScriptSnippets
 code --install-extension ziyasal.vscode-open-in-github
 ```
+
+#### Safari extensions
+
+JSON peep
+Polyglot
