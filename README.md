@@ -69,6 +69,9 @@
 }
 ```
 
+Для добавления команды code:
+<https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line>
+
 ```shell
 code --install-extension aaron-bond.better-comments
 code --install-extension alefragnani.project-manager
